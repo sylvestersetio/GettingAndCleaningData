@@ -75,5 +75,5 @@ The code will then get all column names, rename each column based on regular exp
     .freq() = frequency
     angle. = Angle
 
-The code will then create summary statistic through grouping by and summarizing across everything and based on mean.
+The code will then create summary statistic through grouping by Subject and Activity and summarizing across everything and based on mean. 
 The code will then create text file named "FinalProject_Problem5.txt".
